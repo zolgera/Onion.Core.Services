@@ -11,6 +11,11 @@
     <Description>Basic Service layer for an onion architecture</Description>
     <Copyright>2020</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/zolgera/Onion.Core.Services</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/zolgera/Onion.Core.Services</RepositoryUrl>
+    <PackageTags>Onion Architecture Services</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
